@@ -53,4 +53,6 @@ dependencies {
 
     implementation(libs.retro)
     implementation(libs.retro.conv)
+    implementation(libs.okHttp)
+    implementation(libs.okHttp.logging)
 }
